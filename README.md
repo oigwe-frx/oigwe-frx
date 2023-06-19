@@ -10,7 +10,7 @@ A bit about me:
 - 🔭 Coding Languages: Javascript and Python
 - ⚡ Personal interests:  I’m interested in graphic arts, fighting for food justice/equality, and advocating for increased neurodiversity awareness in the workplace.
 - 🌱 I’m currently working as a developer, and learning project managment, and visual design
-- - 😄 Pronouns: she/her
+- 😄 Pronouns: she/her
 
 
 
