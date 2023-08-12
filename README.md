@@ -7,9 +7,10 @@
 
 A bit about me:
 
-- ⚡ Personal interests:  I’m interested in graphic arts, fighting for food justice/equality, and advocating for increased neurodiversity awareness in the workplace.
-- 🌱 I’m currently working as a developer, and learning project managment, and visual design
 - 😄 Pronouns: she/her
+- 🔭 Coding Languages: Javascript and Python
+- 🌱 I’m currently working as a developer, and learning data analytics
+- ⚡ Personal interests:  I’m interested in graphic arts, fighting for food justice/equality, and advocating for increased neurodiversity awareness in the workplace.
 
 
 
@@ -20,7 +21,6 @@ A bit about me:
 **osita-igwe/osita-igwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-- 🔭 Coding Languages: Javascript and Python
 
 -  I’m currently working on ...
 - 🌱 I’m currently learning ...
