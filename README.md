@@ -9,7 +9,7 @@ A bit about me:
 
 - 😄 Pronouns: she/her
 - 🔭 Coding Languages: Javascript and Python
-- 🌱 I’m currently working as a developer, and learning data analytics
+- 🌱 I’m currently working as a developer and learning machine learning
 - ⚡ Personal interests:  I’m interested in graphic arts, fighting for food justice/equality, and advocating for increased neurodiversity awareness in the workplace.
 
 
