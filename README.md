@@ -1,10 +1,10 @@
 # Hello, O here...  👋
 
 ### Coursework:
-- Columbia Engineering AI Boot Camp
+- **Columbia Engineering**: AI Boot Camp
   - Anticipated Completion: May 2024
     
-- MIT Professional Education Applied Data Science Program: Leveraging AI for Effective Decision-Making
+- **MIT Professional Education**: Applied Data Science Program: Leveraging AI for Effective Decision-Making
   - Completed Dec 15, 2023
   - [Certificate of Completion](https://credentials.professional.mit.edu/20a50f32-d7f7-443a-ab01-9231943c4de7)
   
