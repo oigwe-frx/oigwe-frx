@@ -12,12 +12,12 @@
 ####
 A bit about me:
 
-- 😄 Pronouns: she/her
 -  🇺🇸 Nationality: United States of America
 - 🔭 Coding Languages: Javascript and Python
-- 🌱 I am currently working as a Full Stack Developer and learning machine learning
-- :books: I am fascinated by: how AI is impacting medicine, specifically the treatment of neuro-diagnoses 
-- ⚡ Personal interests:  I’m interested in graphic arts, fighting for food justice/equality, and advocating for increased neurodiversity awareness in the workplace.
+- 🌱 Employed as a: Full-Stack Developer in health-tech
+- :books: Fascinated by: AI's impact on medicine, specifically the treatment of neuro-diagnoses
+- :globe_with_meridians: Learning: Danish, Norwegian and German
+- ⚡ Personal interests: Graphic arts, fighting for food justice/equality, and advocating for increased neurodiversity awareness in the workplace.
 
 
 
