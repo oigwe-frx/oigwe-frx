@@ -21,6 +21,8 @@ A bit about me:
 - ⚡ Personal interests: Graphic arts, fighting for food justice/equality, and advocating for increased neurodiversity awareness in the workplace.
 
 
+[![Contact me on Codementor](https://www.codementor.io/m-badges/oigwefrx/find-me-on-cm-b.svg)](https://www.codementor.io/@oigwefrx?refer=badge)
+
 
 
 
