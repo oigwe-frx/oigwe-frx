@@ -17,7 +17,7 @@ A bit about me:
 - 🔭 Coding Languages: Javascript and Python
 - 🌱 Employed as a Full-Stack Developer in health-tech
 - :books: Fascinated by AI's impact on medicine, specifically the treatment of neuro-diagnoses
-- :globe_with_meridians: Learning: Danish, Norwegian and German
+- :globe_with_meridians: Fascinated by Languages: Dutch, Danish, Norwegian, German
 - ⚡ Personal interests: Graphic arts, fighting for food justice/equality, and advocating for increased neurodiversity awareness in the workplace.
 
 
