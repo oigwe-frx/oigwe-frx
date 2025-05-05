@@ -15,9 +15,10 @@ A bit about me:
 
 -  🇺🇸 Nationality: United States of America
 - 🔭 Coding Languages: Javascript and Python
-- 🌱 Employed as a Full-Stack Developer in health-tech
+- 🌱 Currently Employed as a Quality Assurance, Compliance, and Training Specialist
+- 🌱 Previously Employed as a Full-Stack Developer in health-tech
 - :books: Fascinated by AI's impact on medicine, specifically the treatment of neuro-diagnoses
-- :globe_with_meridians: Fascinated by Languages: Dutch, Danish, Norwegian, German
+- :globe_with_meridians: Fascinated by Languages: Dutch, German, 
 - ⚡ Personal interests: Graphic arts, fighting for food justice/equality, and advocating for increased neurodiversity awareness in the workplace.
 
 
