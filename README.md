@@ -14,7 +14,7 @@
 A bit about me:
 
 -  🇺🇸 Nationality: United States of America
-- 🔭 Coding Languages: Javascript and Python
+- 🔭 Coding Languages: Javascrip, Python, C#
 - 🌱 Currently Employed as a Quality Assurance, Compliance, and Training Specialist
 - 🌱 Previously Employed as a Full-Stack Developer in health-tech
 - :books: Fascinated by AI's impact on medicine, specifically the treatment of neuro-diagnoses
